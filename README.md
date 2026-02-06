@@ -1,6 +1,6 @@
 # AI Operations Assistant
 
-**24-Hour GenAI Intern Assignment - AI Operations Assistant**
+** AI Operations Assistant**
 
 Ek production-ready AI Operations Assistant jo natural language tasks ko samajhta hai, multi-step execution plans banata hai, APIs call karta hai, aur structured responses deta hai.
 
